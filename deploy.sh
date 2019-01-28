@@ -11,7 +11,7 @@ npm run build
 
 # 如果是发布到自定义域名
 # echo 'www.example.com' > CNAME
-mv docs/.vuepress/dist .
+mv docs/.vuepress/dist/* .
 git init
 git add -A
 git commit -m 'deploy by like'
