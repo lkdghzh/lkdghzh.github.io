@@ -1,10 +1,16 @@
 {
-  "author": "like",
+  "name": "unar-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "unar.js",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
   "devDependencies": {
     "vuepress": "^0.14.8"
-  }
+  },
+  "keywords": [],
+  "author": "like",
+  "license": "ISC"
 }
