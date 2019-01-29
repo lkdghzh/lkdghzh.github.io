@@ -15,9 +15,8 @@ features:
 # footer: MIT Licensed | Copyright © 2018-2019 like
 ---
 
-# <center>思想来源 :tada:</center>
-
-**参考react，vue,knockout.站在巨人的肩膀上**
+**思想来源 react vue knockout jquery**
 ```
+//go
 console.log('small stable unarjs ')
 ```
