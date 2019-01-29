@@ -12,8 +12,12 @@ features:
   details: 数据说话
 - title: 极易上手-123搞定
   details: 详细的数据对比
-footer: MIT Licensed | Copyright © 2018-2019 li ke
+# footer: MIT Licensed | Copyright © 2018-2019 like
 ---
 
-# Unar的思想来源:tada: :100:
-参考react，vue,knockout.站在巨人的肩膀上
+# <center>思想来源 :tada:</center>
+
+**参考react，vue,knockout.站在巨人的肩膀上**
+```
+console.log('small stable unarjs ')
+```
