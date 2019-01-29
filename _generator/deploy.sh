@@ -13,7 +13,7 @@ cd ../
 # git 
 echo 'git start'
 git config user.name lkdghzh
-git config user.email 416960628@qq.com
+git config user.email likesite@foxmail.com
 git add .
 git commit -m '生成文件'
 git push
