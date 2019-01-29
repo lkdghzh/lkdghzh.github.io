@@ -5,10 +5,10 @@ module.exports = {
         displayAllHeaders: true, // 默认值：false
         nav: [
             { text: 'home', link: '/' }, 
-            { text: '教程', link: '/doc/' }, 
-            { text: '设计模式', link: '/design/' }, 
-            { text: '算法', link: '/algo/' }, 
-            { text: '博客', link: '/blog/' }, 
+            { text: '教程', link: '/doc/guide' }, 
+            { text: '设计模式', link: '/design/memo' }, 
+            { text: '算法', link: '/algo/cache' }, 
+            { text: '博客', link: '/blog/mvvm' }, 
             { text: 'git', link: 'https://github.com/lkdghzh' }, // 外部链接
         ],
         sidebar: {
