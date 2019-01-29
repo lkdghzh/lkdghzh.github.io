@@ -14,6 +14,7 @@ module.exports = {
         sidebar: {
             '/doc/': [
                 'guide',
+                'high',
             ],
             '/algo/': [
                 'cache',
@@ -22,9 +23,8 @@ module.exports = {
                 'memo',
             ],
             '/blog/': [
-                '',
-                'first',
-                'second'
+                'mvvm',
+                'virtual-dom'
             ],
             '/': [],
         }
