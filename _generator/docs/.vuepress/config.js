@@ -4,7 +4,7 @@ module.exports = {
     themeConfig: {
         displayAllHeaders: true, // 默认值：false
         nav: [
-            { text: 'home', link: '/' }, 
+            { text: '主页', link: '/' }, 
             { text: '教程', link: '/doc/guide' }, 
             { text: '设计模式', link: '/design/memo' }, 
             { text: '算法', link: '/algo/cache' }, 
